@@ -31,9 +31,7 @@ To access the analytics option, the user selects the "analytics" option from the
 * Amount of water, milk, and coffee beans consumed
 
 ## Screenshoot
- file:///home/ankit/Pictures/Screenshots/Screenshot%20from%202023-04-16%2013-25-10.png
--54:-34:84:47
+![Screenshot from 2023-04-16 13-24-56](https://user-images.githubusercontent.com/99538470/232283810-f3c32358-b32b-4516-a9c7-b11aea0dede6.png)</br>
+![Screenshot from 2023-04-16 13-25-10](https://user-images.githubusercontent.com/99538470/232283839-6d47d4fd-39c6-4019-8858-987244f364c9.png)</br>
 
- file:///home/ankit/Pictures/Screenshots/Screenshot%20from%202023-04-16%2013-24-56.png
-
-file:///home/ankit/Pictures/Screenshots/Screenshot%20from%202023-04-16%2013-24-24.png
+![Screenshot from 2023-04-16 13-30-46](https://user-images.githubusercontent.com/99538470/232283856-ffd7b48b-4660-4195-909b-55472b0aacc8.png)</br>
