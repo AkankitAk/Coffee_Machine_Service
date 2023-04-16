@@ -29,3 +29,11 @@ To access the analytics option, the user selects the "analytics" option from the
 * Number of each type of coffee sold
 * Total revenue generated from coffee sales
 * Amount of water, milk, and coffee beans consumed
+
+## Screenshoot
+ file:///home/ankit/Pictures/Screenshots/Screenshot%20from%202023-04-16%2013-25-10.png
+-54:-34:84:47
+
+ file:///home/ankit/Pictures/Screenshots/Screenshot%20from%202023-04-16%2013-24-56.png
+
+file:///home/ankit/Pictures/Screenshots/Screenshot%20from%202023-04-16%2013-24-24.png
